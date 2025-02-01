@@ -7,7 +7,7 @@ async def main():
     
     q = "ice sighting since:2025-01-20 until:2025-01-31"
     async for tweet in api.search(q, limit=50):
-        print(tweet.id, tweet.user.username, tweet.rawContent)
+        print(tweet)
 
 
 if __name__ == "__main__":
