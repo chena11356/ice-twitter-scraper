@@ -1,0 +1,154 @@
+chena11356@Alexs-Air-7 whereisicerightnow.com % twscrape tweet_details 1674894268912087040
+{"id": 1674894268912087040, "id_str": "1674894268912087040", "url": "https://x.com/elonmusk/status/1674894268912087040", "date": "2023-06-30 21:34:46+00:00", "user": {"id": 44196397, "id_str": "44196397", "url": "https://x.com/elonmusk", "username": "elonmusk", "displayname": "Elon Musk", "rawDescription": "", "created": "2009-06-02 20:12:29+00:00", "followersCount": 215291079, "friendsCount": 964, "statusesCount": 68197, "favouritesCount": 118069, "listedCount": 158620, "mediaCount": 3162, "location": "", "profileImageUrl": "https://pbs.twimg.com/profile_images/1874558173962481664/8HSTqIlD_normal.jpg", "profileBannerUrl": "https://pbs.twimg.com/profile_banners/44196397/1726163678", "protected": null, "verified": false, "blue": true, "blueType": null, "descriptionLinks": [], "pinnedIds": [1885293172458242296], "_type": "snscrape.modules.twitter.User"}, "lang": "en", "rawContent": "This platform hit another all-time high in user-seconds last week", "replyCount": 19105, "retweetCount": 19697, "likeCount": 305278, "quoteCount": 4147, "bookmarkedCount": 834, "conversationId": 1674894268912087040, "conversationIdStr": "1674894268912087040", "hashtags": [], "cashtags": [], "mentionedUsers": [], "links": [], "media": {"photos": [], "videos": [], "animated": []}, "viewCount": 44126587, "retweetedTweet": null, "quotedTweet": null, "place": null, "coordinates": null, "inReplyToTweetId": null, "inReplyToTweetIdStr": null, "inReplyToUser": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "sourceUrl": "http://twitter.com/download/iphone", "sourceLabel": "Twitter for iPhone", "card": null, "possibly_sensitive": null, "_type": "snscrape.modules.twitter.Tweet"}
+
+Formatted more nicely:
+
+{
+    "id": 1674894268912087040,
+    "id_str": "1674894268912087040",
+    "url": "https://x.com/elonmusk/status/1674894268912087040",
+    "date": "2023-06-30 21:34:46+00:00",
+    "user": {
+        "id": 44196397,
+        "id_str": "44196397",
+        "url": "https://x.com/elonmusk",
+        "username": "elonmusk",
+        "displayname": "Elon Musk",
+        "rawDescription": "",
+        "created": "2009-06-02 20:12:29+00:00",
+        "followersCount": 215291079,
+        "friendsCount": 964,
+        "statusesCount": 68197,
+        "favouritesCount": 118069,
+        "listedCount": 158620,
+        "mediaCount": 3162,
+        "location": "",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1874558173962481664/8HSTqIlD_normal.jpg",
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/44196397/1726163678",
+        "protected": null,
+        "verified": false,
+        "blue": true,
+        "blueType": null,
+        "descriptionLinks": [],
+        "pinnedIds": [1885293172458242296],
+        "_type": "snscrape.modules.twitter.User",
+    },
+    "lang": "en",
+    "rawContent": "This platform hit another all-time high in user-seconds last week",
+    "replyCount": 19105,
+    "retweetCount": 19697,
+    "likeCount": 305278,
+    "quoteCount": 4147,
+    "bookmarkedCount": 834,
+    "conversationId": 1674894268912087040,
+    "conversationIdStr": "1674894268912087040",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {"photos": [], "videos": [], "animated": []},
+    "viewCount": 44126587,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": '<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>',
+    "sourceUrl": "http://twitter.com/download/iphone",
+    "sourceLabel": "Twitter for iPhone",
+    "card": null,
+    "possibly_sensitive": null,
+    "_type": "snscrape.modules.twitter.Tweet",
+}
+
+
+
+
+chena11356@Alexs-Air-7 whereisicerightnow.com % python scraper.py
+1885043131533361493 lachamakitaaa re: posting about ICE sightings, i’ve seen some advice about what specific info to report + how to minimize uninformed panic. but also struggling w what to repost or not when people don’t add details (such as just a pic w “ICE sighting + location). many ppl are uninformed on
+1884791026340049338 VanCityFins Wild Hög sighting on the ice tonight
+1884744206054576437 plsmeowtome seeing an ice sighting EVERY SINGLE DAY being posted on social media makes me so sick and sad
+1884682229059830249 Slowbro01323 Possible ICE sighting near Longview WA Hemlock street. I'll keep an eye out and report anything I see to the correct people to help any undocumented immigrants.
+1884413606927753469 scorpiolover444 HENRICO VA - ICE SIGHTING AT LOTTE MARKET (2 hrs ago on the people over papers padlet) https://t.co/USSvZZxeAh
+1884276317782503673 CathPeters5 @libsoftiktok Trump does not care about the constitution nor human rights. The only thing sighting this card will result in is violent force by ICE.
+1884006109071171615 Snorsnacks ICE sighting in my neighborhood
+1883982252331393479 them_innit ICE sighting at the Jewel on Foster and Pulaski
+1883926478272045566 chthonicsalt the first practical post about ICE raids, with a confirmed sighting, about my local area was from a mild mannered middle aged mother who many people have overlooked and invalidated the whole time I’ve known her. The type edgelords cosplaying as leftists make fun of.
+1883790184548053213 Will_be_banned_ @wariocolosseum It's fine, we did the same thing with the ICE sighting report website.  Quid pro quo and all that.
+1883735304156369345 StockNTwix @MrAndyNgo @KCBSRadio @ICEgovERO @ICEgov Here's the scoop, @Nextdoor app users are reporting sighting of ICE vehicles. @Nextdoor is aiding these immigrant illegals. They are undermining the law. @realDonaldTrump @DonaldJTrumpJr @DOGE @elonmusk @KashPatel_News @TomHoman_ needs to investigate and prosecute @Nextdoor
+1885109315335258544 CeceRey i cannot believe i’m sharing  this —-
+
+but ice sighting at RILEY CHILDREN’S HOSPITAL IN INDIANAPOLIS, INDIANA
+
+3 trucks. agents in ice uniforms 
+
+timestamp unknown https://t.co/4ktYY3Mbmy
+1885101237911032135 CeceRey ice sighting in bessemer city north carolina as of 45 min ago https://t.co/gcg12A7HWa
+1884954231926346239 CeceRey ice sighting this morning at ashley furniture industries manufacturing and distribution center in mississippi 336, ecru, mississippi. 
+
+6:30 am https://t.co/35KEu21Tj3
+1884591670294990874 CeceRey Ice sighting black suv parked outside boyos authentic mexican food in st. john indiana
+1884422079140724939 CeceRey ice sighting in 3150 macon rd, columbus georgia at a ross parking lot
+
+posted at 7:43 pm
+1884383925281210766 CeceRey ice sighting in leesburg pike, sterling virginia —- seen driving around close to clock tower center
+1884381120235725052 CeceRey ice sighting in country club drive &amp; 60 hotel, mesa arizona as of 17 min ago —— https://t.co/TmN6qQcaWG
+1884378755918975376 CeceRey ice sighting in san pedro, los angeles, california —- spotted on 22nd near the marina posted 10 min ago.
+1883925570146426927 ItIsClit Cicero and Berwyn ICE sighting this morning https://t.co/0edcLjwv5U
+1883676364722843797 thesananad ICE sighting me tf ❄️🚔 #Trump2025
+1883670281182683350 clancyn9na ICE SIGHTING UPDATES UTAH ‼️ https://t.co/U8cyCEfuKu
+1883642098781720810 henryford231 La Migra sighting in South Gate, California. Near Azalea Shopping Center. seen wearing uniform. Mi gente ponte listo. #Southgate #ICESIGHTING #LaMigra #ICE
+1883603109999775749 jgalt33 @JHolmsted @BoulwareH2 ICE needs to step it up.  Until this is a UFO sighting level story, there are too many illegals.
+1883594048394711379 FreeAsAHoneyBee ICE sighting near my area I'm actually terrified
+1883575829248323892 kkaystronger @BowTiedBroke Punta Cana, DR Club and Resort. Tortuga Bay for the luxe part, expansive property for exploring, excellent beaches. Or Cabrerra area on the Atlantic side for whale sighting. There is a lot of rugged nature in DR for adventure.
+1883400145808843132 BUTRBeanQueen @PressSec @DailyMail According to Gov. Pritzker and CPS  they had an ICE sighting at a school .! https://t.co/nreQQZEw3a
+1883396714247422377 BUTRBeanQueen @nellbsalzman WHO’s your ‘source’ since your Story?  and the CHICAGO PUBLIC SCHOOLS  and GOVERNOR FAT ASS‘  Posts got riddled with holes . ?!!   See photo below of the ICE sighting at school . https://t.co/Kh2OsBRmfZ
+1883366359905841503 Sophiemay881 It’s happening!
+
+PLEASE SHARE: ICE SIGHTING REPORTING https://t.co/zthgv9i0a1
+1883355600261947844 giaodn @Liberacrat You don’t shut it down. You mark every location with an ICE sighting.
+1883347478894035209 MollyDavis543 I may start a Reddit account, just to post "warnings".
+
+If I need to go to the Emergency Room, I'll post a fake ICE sighting on my way to the hospital.  😊
+1883334936599695549 reddit_lies Redditors have started r/LaMigra to report ICE spottings to eachother. https://t.co/YhapM12Akt
+1883256442297471317 CARTELIUN @officialruth26 $ICE , $VINE Its My Sighting But The Other Two Go One Side 😂
+1883230934012686403 robotwendyfan Reported an ICE sighting at my local trailer park and I haven't seen a single Latinx at the store today https://t.co/gV3WkJCL1P
+1883567579824075041 CeceRey ice sighting —- 30th + 31st street off i-65 posted up around construction zones.
+
+also goshen, indiana + fair oaks farm.
+1883314469117509931 CeceRey ice sighting in hoffman estates, illinois.
+1883314236933513605 CeceRey ice sighting in kearny, new jersey.
+1883314082973151666 CeceRey ice sighting in richfield, minnesota.
+1883313555052896517 CeceRey ice sighting in fort myers, florida.
+1883220085843628232 vogler79 Nobody getting removed from classroom from ICE: 
+
+A reported sighting of immigration agents attempting to enter an elementary school on Chicago’s Southwest Side on Friday was in fact U.S. Secret Service agents investigating a threat, a federal spokesperson said late Friday afternoon.
+1883215391213912575 dorksragdoll Report ice sighting, let's protect our loved ones, friends, neighbors ❤️ 
+https://t.co/zc309kz7wT
+1883178377382944884 vossex Call this ICE sighting hotline and give them false information
+These people need to be afraid for being in our country illegally and hotlines like this need to be flooded with fake information until they are useless.
+https://t.co/1DSyhAEgfk
+1883008447307984943 the_mrsrichard PLEASE SHARE:  ICE sighting reporting website https://t.co/72ZwcrAGIK
+#georgia #AtlantaGA
+1882967309037482277 OttawaGemmells @Mikeggibbs Good advice for the non-whites though. I doubt that ICE is rounding up white ppl at random. On the other hand, a disgruntled neighbour can always call the hotline to make a false sighting. It’s a free for all now. Let the games begin.
+1882922133619450141 cesarmvm I think I just saw someone post then delete a CBP/ICE sighting… just outside the CBP offices in the port. hjkhdjhdsj
+
+We all need to collectively breathe and have a black American Spirit
+1882921228526362989 gloomyprint ice sighting at northwestern central dupage hospital in winfield, il
+
+please be weary when in that area!
+1882911580951847402 AKMPXD @Liberacrat Everyone needs to flood it with fake sightings. If you are planning on going somewhere report an ice sighting so you can go in peace and safety.
+1882900596531065169 GingaGirlPaida I’m so sorry to unintentionally trick you all I can see how this is hard to interpret without context!! I am in Michigan right now, surrounded by REAL snow, not half an inch of ice on a chair in my Texas backyard😂 https://t.co/s5ewhkbF5O
+1882852489785188524 DeaPyre999 So illegal immigrants are attempting to hide from ICE. They have a sighting reporting map set up. #ICE #FBI https://t.co/60tbVLHHpx
+1882770325781491844 HurricaneSan101 In a raid by ICE Agents went to a seafood business near the water. Asked for paperwork on 4 individuals. News covered the story. 3 did not have paperwork as requested. 1 was supposedly a vet of the US MILITARY.But no papers. Sighting no warrants, 4th amend vio
+1882720533944619065 Yaw_Syting_ @mireku_gerard Ice block
+1883168517190779369 CeceRey ice sighting in houston, texas — zip 77023
+1883161730240667806 CeceRey ice sighting in jersey city, new jersey.
+1882991250410029198 CeceRey ice sighting in richmond, virginia.
+1882783982443728898 CeceRey ice sighting in wauconda + carbondale, Illinois as of an hour ago
+1882783210893140358 CeceRey ice sighting in washington and goshen indiana
+1882780325056815601 CeceRey ice sighting in montgomery village, maryland as if 20 min ago.
+1882779102308135407 CeceRey ice sighting in san francisco, ca as of a half hour ago.
+1882778187131920664 CeceRey ice sighting in gettysburg, pennsylvania as of 10 min ago.
