@@ -1,4 +1,4 @@
-# whereisicerightnow.com
+# ice-twitter-scraper
 
 ## Dependencies
 
