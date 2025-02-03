@@ -1,8 +1,8 @@
 import firebase_admin
 from firebase_admin import credentials, firestore
 
-# Initialize Firebase Admin SDK with your service account key
-cred = credentials.Certificate('serviceAccountKey.json') # Correct path to your JSON file
+# Initialize Firebase Admin SDK with service account key
+cred = credentials.Certificate('serviceAccountKey.json')
 firebase_admin.initialize_app(cred)
 
 # Get Firestore client
@@ -16,14 +16,14 @@ def post_data():
 
         # Data to be posted
         data = {
-        'title': 'Sample Post', # Example field
-            'content': 'This is a sample post content.', # Example field
-            'author': 'Lauren', # Example field
+            'latitude': 37.620274,
+            'longitude': -77.526858,
+            'poster': 'Alex2', # Example field
             'timestamp': firestore.SERVER_TIMESTAMP # Automatically sets the timestamp on the server
         }
 
-        # Add a new document with automatic ID
-        posts_ref.add(data)
+        posts_ref.document("1884413606927753471").set(data)
+
         print("Post added successfully.")
 
     except Exception as e:
